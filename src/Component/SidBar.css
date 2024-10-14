@@ -1,0 +1,17 @@
+
+.sidbar{
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 10px 5px;
+    text-align: center;
+    height: 23px;
+
+}
+a{
+    text-decoration: none;
+}
